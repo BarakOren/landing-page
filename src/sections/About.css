@@ -8,7 +8,7 @@
     flex-direction: column;
 
     @media only screen and (max-width: 450px) {
-        margin-top: unset;
+        margin-top: 0;
       }
 }
 
